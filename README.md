@@ -2,7 +2,7 @@ SmartLab
 =======
 
 Research facilities employ complex systems to expedite the data exploration process. 
-These machines, though exteremly useful and impressive, often require a steep learning curve. 
+These machines, though extremely useful and impressive, often require a steep learning curve. 
 The goal of this applicaiton is to reduce the entry barrier for new Vislab users by providing
 a more natural way of communicating with our systems.
 
